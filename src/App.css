@@ -7,6 +7,6 @@
 body {
   font-family: Open sans, sans-serif;
   height: 100vh;
-  background: #f1f1f1;
+  background: rgb(27, 27, 27);
   overflow: hidden;
 }
